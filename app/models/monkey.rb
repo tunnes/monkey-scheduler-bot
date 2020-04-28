@@ -66,7 +66,6 @@ class Monkey
       [{size: 50, text: 'AFAGO'},
        {size: 50, text: 'ACONCHEGO'},
        {size: 50, text: 'RUGIDO'},
-       {size: 50, text: 'BABA'}, # Hilder references
        {size: 50, text: 'MORTAL'},
        {size: 50, text: 'MALABARES'}
        ].sample
